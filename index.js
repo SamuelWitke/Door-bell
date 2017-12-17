@@ -1,8 +1,7 @@
 const express = require('express');
 const twilio = require('twilio');
 const url = require('url');
-
-var env = require('node-env-file');
+const env = require('node-env-file');
 env('./.env');
 
 const PORT = process.env.PORT || 3000;
