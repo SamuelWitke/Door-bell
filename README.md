@@ -17,4 +17,4 @@ adb devices
 ```
 
 ### Rasberry Pi 
-![](./img.png =250x "Rasberry Pi")
+![](./img.png =250x)
