@@ -17,4 +17,4 @@ adb devices
 ```
 
 ### Rasberry Pi 
-![](./img.png) {:height="50%" width="50%"}
+![](./img.png | width=100) 
