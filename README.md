@@ -17,4 +17,4 @@ adb devices
 ```
 
 ### Rasberry Pi 
-![alt text](./20171217_181610.jpg=100x20 "Rasberry Pi")
+![](./img.png=100x20 "Rasberry Pi")
