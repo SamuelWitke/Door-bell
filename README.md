@@ -17,4 +17,4 @@ adb devices
 ```
 
 ### Rasberry Pi 
-![](./img.png | width=100) 
+![](https://github.com/SamuelWitke/Door-bell/blob/master/img.png | width=100) 
