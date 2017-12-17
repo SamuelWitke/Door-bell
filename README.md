@@ -15,3 +15,6 @@ ngrok http 3000
 adb connect (To Android Things Rasberry Pi)
 adb devices 
 ```
+
+### Rasberry Pi 
+![alt text](./20171217_181610.jpg?raw=true "Rasberry Pi")
